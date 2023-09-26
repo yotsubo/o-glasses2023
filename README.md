@@ -2,7 +2,8 @@
 o-glasses2023 is an intuitive binary classification tool with machine learning.
 
 ## Requirement
-Google Colab or Jupyter Lab
+* Google Colab or Jupyter Lab
+* PyTorch 1.11 or later
 
 ## Dataset
 We prepared our dataset for compiler identification.
